@@ -1,0 +1,100 @@
+*{
+    background-color:#32a852;
+}
+#id101{
+    height: 40px;
+    margin-left: 1080px;
+    border-top-left-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-color:antiquewhite;
+    background-color: whitesmoke;
+    box-shadow: black;
+    cursor: pointer;
+}
+#id102{
+    height: 40px;
+    margin-left: 0px;
+    border-radius: 9px;
+    border-color:aqua;
+    background-color: whitesmoke;
+    box-shadow:black;
+    cursor: pointer;
+}
+#id1{
+    margin-top: 10px;
+    height: 67px;
+    border-radius: 11px;
+    cursor: pointer;
+}
+#id2{
+    height: 85px;
+    margin-left: 801px;
+    border-radius: 9px;
+}
+#id3{
+    height: 85px;
+    margin-left: 100px;
+    border-radius: 9px;
+}
+#id4{
+    height: 85px;
+    margin-left: 801px;
+    border-radius: 9px;
+}
+#id5{
+    height: 85px;
+    margin-left: 100px;
+    border-radius: 9px;
+}
+#id6{
+    height: 85px;
+    margin-left: 801px;
+    border-radius: 9px;
+}
+#id7{
+    height: 85px;
+    margin-left: 100px;
+    border-radius: 9px;
+}
+#id8{
+    height: 85px;
+    margin-left: 801px;
+    border-radius: 9px;
+}
+#id9{
+    height: 85px;
+    margin-left: 100px;
+    border-radius: 9px;
+}
+#fullnamecontact{
+    height: 38px;
+    border-radius: 11px;
+    background-color:antiquewhite;
+    border-color:aliceblue;
+    width: 290px;
+}
+#emailidcontact{
+    height: 38px;
+    border-radius: 11px;
+    background-color:antiquewhite;
+    border-color:aliceblue;
+    width: 290px;
+}
+#numbercontact{
+    height: 38px;
+    border-radius: 11px;
+    background-color:antiquewhite;
+    border-color:aliceblue;
+    width: 290px;
+}
+#Logincontact{
+    margin: top 0px;
+    height: 38px;
+    width: 90px;
+    background-color: rgb(129, 188, 188);
+    border-radius: 11px;    
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border-color: darkolivegreen;
+}

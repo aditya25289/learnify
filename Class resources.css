@@ -1,0 +1,25 @@
+*{
+    background-color:#32a852;
+}
+#id101{
+    height: 40px;
+    margin-left: 1080px;
+    border-top-left-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-color:antiquewhite;
+    background-color: whitesmoke;
+    box-shadow: black;
+}
+#id102{
+    height: 40px;
+    margin-left: 0px;
+    border-radius: 9px;
+    border-color:aqua;
+    background-color: whitesmoke;
+    box-shadow:black;
+}
+#id1{
+    margin-top: 10px;
+    height: 67px;
+    border-radius: 11px;
+}

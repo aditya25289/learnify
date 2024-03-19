@@ -1,0 +1,51 @@
+*{
+    background-color:#32a852;
+}
+#id101{
+    height: 40px;
+    margin-left: 1080px;
+    border-top-left-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-color:antiquewhite;
+    background-color: whitesmoke;
+    box-shadow: black;
+}
+#id102{
+    height: 40px;
+    margin-left: 0px;
+    border-radius: 9px;
+    border-color:aqua;
+    background-color: whitesmoke;
+    box-shadow:black;
+}
+#id1{
+    margin-top: 10px;
+    height: 67px;
+    border-radius: 11px;
+}
+#usernameparent{
+    height: 38px;
+    border-radius: 11px;
+    background-color:antiquewhite;
+    border-color:aliceblue;
+    width: 290px;
+
+}
+#passwordparent{
+    height: 38px;
+    width: 290px;
+    border-radius: 11px;
+    background-color:antiquewhite;
+    border-color:aliceblue;
+}
+#Loginparent{
+    margin-left: 680px;
+    height: 59px;
+    width: 140px;
+    background-color: rgb(129, 188, 188);
+    border-radius: 11px;    
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border-color: darkolivegreen;
+}
